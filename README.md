@@ -1,4 +1,4 @@
-<h1 align="center">MiroTalk SFU</h1>
+<h1 align="center">KnowItOnline</h1>
 
 <br />
 
